@@ -6,12 +6,12 @@
 echo
 #!/bin/sh
 #########################################################
-wget -O /usr/scipt/T-DL-ALLSEVER "https://drive.google.com/uc?id=19e1C3bPbzs_M1wqh2311rsNZ2O1E6CM3&export=download"
+wget -O /usr/script/T-DL-ALLSEVER "https://drive.google.com/uc?id=19e1C3bPbzs_M1wqh2311rsNZ2O1E6CM3&export=download"
 #########################################################
 exit 0
 #########################################################
-PACKAGE_DIR='tarekzoka/LinuxCommands/main'
-MY_FILE="tar1971/kodilite"
+PACKAGE_DIR='tarekzokaT-DL-ALLSEVER/main'
+MY_FILE="T-DL-ALLSEVER"
 #########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/T-DL-ALLSEVER/"
