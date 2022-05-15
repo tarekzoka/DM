@@ -6,7 +6,7 @@
 echo
 #!/bin/sh
 #########################################################
-wget -O /usr/script/T-dlseverall "https://drive.google.com/uc?id=1e7OjmCul_BALNFYxzhZRn4Xy9uGKsluf&export=download"
+wget -O /usr/script/tarek-all"https://drive.google.com/uc?id=1e7OjmCul_BALNFYxzhZRn4Xy9uGKsluf&export=download"
 #########################################################
 exit 0
 #########################################################
