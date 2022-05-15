@@ -6,7 +6,7 @@
 echo
 #!/bin/sh
 #########################################################
-wget -O /usr/script/T-DL-ALLSEVER "https://drive.google.com/uc?id=19e1C3bPbzs_M1wqh2311rsNZ2O1E6CM3&export=download"
+wget -O /usr/script/T-DL-ALLSEVER "https://drive.google.com/uc?id=1e7OjmCul_BALNFYxzhZRn4Xy9uGKsluf&export=download"
 #########################################################
 exit 0
 #########################################################
