@@ -6,15 +6,15 @@
 echo
 #!/bin/sh
 #########################################################
-wget -O /usr/script/T-dlseverall.sh "https://github.com/tarekzoka/plugins/raw/main/T-dlseverall.sh.sh"
+wget -O /usr/script/DDDD "https://drive.google.com/uc?id=1e7OjmCul_BALNFYxzhZRn4Xy9uGKsluf&export=download"
 #########################################################
 exit 0
 #########################################################
-PACKAGE_DIR='tarekzokaT-DL-ALLSEVER/main'
+PACKAGE_DIR='tarekzoka/DDDD/main'
 MY_FILE="T-DL-ALLSEVER"
 #########################################################
 
-MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/T-DL-ALLSEVER/"
+MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/DDDD/"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
 
